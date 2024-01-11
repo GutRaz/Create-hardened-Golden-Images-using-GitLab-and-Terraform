@@ -1,4 +1,4 @@
-# Create hardened Golden Images using GitLab and Terraform
+# Create hardened Windows (DSC) and Linux (Ansible) Golden Images using GitLab and Terraform
 
 Pipeline is done in GitLab with 2 stages using a local runner 
 1) pre-job
