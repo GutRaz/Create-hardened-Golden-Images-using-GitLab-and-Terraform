@@ -1,9 +1,8 @@
 # Create hardened Golden Images using GitLab and Terraform
 
- Pipeline is done in GitLab with 2 stages using a local runner 
- 1) pre-job - check if the infrastructure is available
-            - if not available create the required infrastructure using Terraform modules
-
+Pipeline is done in GitLab with 2 stages using a local runner 
+1) pre-job - check if the infrastructure is available
+           - if not available create the required infrastructure using Terraform modules
                create -> a storage account
                               -> a container
                               -> shared image gallery
