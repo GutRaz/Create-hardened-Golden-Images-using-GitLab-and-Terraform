@@ -1,0 +1,1 @@
+# Create-hardened-Golden-Images-using-GitLab-and-Terraform
